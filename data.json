@@ -105,7 +105,9 @@
     "era": "Victorian",
     "genre": "Philosophical Fiction",
     "quote": "The only way to get rid of a temptation is to yield to it.",
-    "link": "https://www.gutenberg.org/files/174/174-h/174-h.htm"
+    "link": "https://www.gutenberg.org/files/174/174-h/174-h.htm",
+    "image": ".../assets/images/thepictureofdoriangray.png",
+    "summary": "The Picture of Dorian Gray is a novel by Oscar Wilde that explores themes of beauty, morality, and the consequences of a hedonistic lifestyle through the story of a young man who trades his soul for eternal youth."
   },
   {
      "id": 11,
@@ -114,7 +116,9 @@
      "era": "Victorian",
      "genre": "Gothic Romance",
      "quote": "I am no bird; and no net ensnares me: I am a free human being with an independent will.",
-     "link": "https://www.gutenberg.org/files/1260/1260-h/1260-h.htm"
+     "link": "https://www.gutenberg.org/files/1260/1260-h/1260-h.htm",
+     "image": ".../assets/images/janeeyre.png",
+     "summary": "Jane Eyre is a novel by Charlotte Brontë that follows the life of an orphaned girl, Jane, as she navigates a world filled with hardship, love, and moral dilemmas."
   },
   {
     "id": 12,
@@ -123,6 +127,8 @@
     "era": "20th Century",
     "genre": "Drama",
     "quote": "Time is the longest distance between two places.",
-    "link": "https://www.gutenberg.org/ebooks/author/742"
+    "link": "https://www.gutenberg.org/ebooks/author/742",
+    "image":".../assets/images/theglassmenagerie.png",
+    "summary": "The Glass Menagerie is a poignant memory play by Tennessee Williams that explores the struggles of a fragile family in 1930s St. Louis, focusing on themes of memory, escape, and the pursuit of dreams."
   }
 ]  
