@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "era": "Elizabethan",
+    "genre": "Tragedy",
+    "quote": "To be, or not to be: that is the question.",
+    "link": "https://www.gutenberg.org/files/1524/1524-h/1524-h.htm",
+    "image": "../assets/images/hamlet.png",
+    "summary": "Hamlet is a tragedy that tells the story of Prince Hamlet avenging his father's death."
+  },
+  {
+    "id": 2,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "era": "Regency",
+    "genre": "Romance",
+    "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+    "link": "https://www.gutenberg.org/files/1342/1342-h/1342-h.htm",
+    "image": "../assets/images/prideandprejudice.png",
+    "summary": "Pride and Prejudice is a romantic novel that explores the themes of love, reputation, and class."
+  },
+  {
+    "id": 3,
+    "title": "The Raven",
+    "author": "Edgar Allan Poe",
+    "era": "19th Century",
+    "genre": "Poetry",
+    "quote": "Once upon a midnight dreary, while I pondered, weak and weary.",
+    "link": "https://www.gutenberg.org/files/1065/1065-h/1065-h.htm",
+    "image": "../assets/images/raven.png",
+    "summary": "The Raven is a narrative poem that tells the story of a man visited by a mysterious raven."
+  },
+  {
+    "id": 4,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "era": "19th Century",
+    "genre": "Philosophical Novel",
+    "quote": "To go wrong in one's own way is better than to go right in someone else's.",
+    "link": "https://www.gutenberg.org/files/2554/2554-h/2554-h.htm",
+    "image": "../assets/images/crime&punishment.png",
+    "summary": "Crime and Punishment is a psychological novel that explores the moral dilemmas of a young man who commits a crime."
+  },
+  {
+    "id": 5,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "era": "Ancient Greek",
+    "genre": "Epic Poetry",
+    "quote": "Sing to me of the man, Muse, the man of twists and turns.",
+    "link": "https://www.gutenberg.org/files/1727/1727-h/1727-h.htm",
+    "image": "../assets/images/odyssey.png",
+    "summary": "The Odyssey is an epic poem that follows the hero Odysseus on his journey home after the Trojan War."
+  },
+  {
+    "id": 6,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "era": "Romantic",
+    "genre": "Gothic Fiction",
+    "quote": "Beware; for I am fearless, and therefore powerful.",
+    "link": "https://www.gutenberg.org/files/84/84-h/84-h.htm",
+    "image": "../assets/images/frankenstein.png",
+    "summary": "Frankenstein is a Gothic novel that tells the story of Victor Frankenstein and his monstrous creation."
+  },
+  {
+    "id": 7,
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "era": "Victorian",
+    "genre": "Historical Fiction",
+    "quote": "It was the best of times, it was the worst of times.",
+    "link": "https://www.gutenberg.org/files/98/98-h/98-h.htm",
+    "image":"../assets/images/ataleoftwocities.png",
+    "summary": "A Tale of Two Cities is a historical novel set during the French Revolution, exploring themes of sacrifice and redemption."
+  },
+  {
+    "id": 8,
+    "title": "Metamorphosis",
+    "author": "Franz Kafka",
+    "era": "20th Century",
+    "genre": "Absurdist Fiction",
+    "quote": "As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect.",
+    "link": "https://www.gutenberg.org/files/5200/5200-h/5200-h.htm",
+    "image": ".../assets/images/metamorphosis.png",
+    "summary": "Metamorphosis is a novella that tells the story of Gregor Samsa, who wakes up one day to find himself transformed into a giant insect."
+  },
+  {
+    "id": 9,
+    "title": "Leaves of Grass",
+    "author": "Walt Whitman",
+    "era": "19th Century",
+    "genre": "Poetry",
+    "quote": "I celebrate myself, and sing myself.",
+    "link": "https://www.gutenberg.org/files/1322/1322-h/1322-h.htm",
+    "image": ".../assets/images/leavesofgrass.png",
+    "summary": "Leaves of Grass is a poetry collection that celebrates the human spirit and the beauty of nature."
+  },
+  {
+    "id": 10,
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "era": "Victorian",
+    "genre": "Philosophical Fiction",
+    "quote": "The only way to get rid of a temptation is to yield to it.",
+    "link": "https://www.gutenberg.org/files/174/174-h/174-h.htm"
+  },
+  {
+     "id": 11,
+     "title": "Jane Eyre",
+     "author": "Charlotte Brontë",
+     "era": "Victorian",
+     "genre": "Gothic Romance",
+     "quote": "I am no bird; and no net ensnares me: I am a free human being with an independent will.",
+     "link": "https://www.gutenberg.org/files/1260/1260-h/1260-h.htm"
+  },
+  {
+    "id": 12,
+    "title": "The Glass Menagerie",
+    "author": "Tennessee Williams",
+    "era": "20th Century",
+    "genre": "Drama",
+    "quote": "Time is the longest distance between two places.",
+    "link": "https://www.gutenberg.org/ebooks/author/742"
+  }
+]  
